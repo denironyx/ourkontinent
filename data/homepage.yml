@@ -1,22 +1,22 @@
 ################################ Banner ##############################
 banner:
   enable : true
-  subtitle : "Small Help Can Make Change"
-  title : "New hope for <br> near future"
-  content : "Your small contribution means a lot. Natus officia amet hic <br> accusamus repellat magni reprehenderit dolorem."
+  subtitle : "Our Vision Start With You"
+  title : "Unveiling Africa's<br> Potential and Future"
+  content : "You have a role to play in changing our narrative. <br> Your actions, words and contributions is her you start"
   button:
     enable : true
-    label : "Donate Now"
+    label : "JOIN US"
     link : "donation"
 
 ############################# Intro ##################################
 intro:
   enable: true
   subtitle : "What we can do"
-  title : "We Believe that We can <br>Save More Lifes with you"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, dicta, iure. Esse quasi labore aperiam,
-          dolorem amet voluptas soluta asperiores nostrum voluptate molestias numquam similique. Voluptate natus
-          corporis ex, distinctio."
+  title : "We Believe that We can <br>Change the Narrative of Africa"
+  content : "By driving sustainable development, fostering resilience, and promoting innovation across Africa. 
+            We aim to champion Africa's rich heritage and provide frameworks for positive change and collaboration continent-wide. 
+            Through partnerships and initiatives, we empower individuals and organisations to shape a brighter future for Africa."
   introItem:
     # intro item loop
     - title : "Get inspired"
@@ -41,9 +41,9 @@ intro:
 ################################# Video ###############################
 video:
   enable : true
-  title : "We Make a Difference <br>in their Life"
-  videoThumb : "images/bg/bg-3.jpg"
-  video: "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  title : "We are on a journey to tell <br>Africa story"
+  videoThumb : "images/bg/bg-1.jpg"
+  video: "https://www.youtube.com/watch?v=YRyRmXDgy7M"
   
 ################################# funfacts ###############################
 funfacts:
