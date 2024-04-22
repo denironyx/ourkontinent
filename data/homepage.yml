@@ -41,7 +41,7 @@ intro:
 ################################# Video ###############################
 video:
   enable : true
-  title : "We are on a journey to tell <br>Africa story"
+  title : "We are on a Journey to Show <br>Africa"
   videoThumb : "images/bg/bg-1.jpg"
   video: "https://www.youtube.com/watch?v=YRyRmXDgy7M"
   
@@ -50,26 +50,26 @@ funfacts:
   enable : true
   funItem:
     # funfacts item loop
-    - title : "Years of Experience"
-      count: "18"
-      
-    # funfacts item loop
-    - title : "Active Volunteer"
-      count: "1460"
-      
-    # funfacts item loop
-    - title : "Availble Country"
-      count: "92"
-      
-    # funfacts item loop
-    - title : "Million People Helped"
+    - title : "Countries in Africa"
       count: "54"
+      
+    # funfacts item loop
+    - title : "Spoken Languages"
+      count: "2000"
+      
+    # funfacts item loop
+    - title : "Ethic Groups"
+      count: "3000"
+      
+    # funfacts item loop
+    - title : "African Cuisine"
+      count: "2200"
 
 ############################ gallery ###################################
 gallery:
   enable : true
   subtitle : "Our Gallery"
-  title : "We connect with people across different sectors. we take risksand we always keep learning."
+  title : "We believe in our journey and we know that collaborations and partnerships are ways for us to achieve it."
   galleryItems:
     - image : "images/gallery/1.jpg"
     - image : "images/gallery/2.jpg"
@@ -84,7 +84,7 @@ gallery:
 ########################## latest causes ################################
 causes:
   enable : true
-  subtitle : "Latest Cuases"
+  subtitle : "Latest Causes"
   title : "Our Recent Causes to serve better"
   content : "We provide services in the area of IFRS and management reporting, helping companies to reach
             their highest level."
