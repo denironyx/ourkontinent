@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "WishFund hugo | Nonprofit Charity Funderising Theme"
 theme = "wishfund-hugo"
@@ -59,21 +59,6 @@ paginate = 6
   name = "Causes"
   URL = "causes"
   weight = 4
-
-  [[menu.main]]
-  weight = 5
-  name = "Get Involved"
-  hasChildren = true
-
-    [[menu.main]]
-    parent = "Get Involved"
-    name = "Donation"
-    URL = "donation"
-
-    [[menu.main]]
-    parent = "Get Involved"
-    name = "Volunteer"
-    URL = "volunteer"
   
   [[menu.main]]
   name = "Event"

@@ -1,146 +1,148 @@
 ################################ Banner ##############################
 banner:
-  enable : true
-  subtitle : "Our Vision Start With You"
-  title : "Unveiling Africa's<br> Potential and Future"
-  content : "You have a role to play in changing our narrative. <br> Your actions, words and contributions is her you start"
+  enable: true
+  subtitle: "Our Vision Start With You"
+  title: "Unveiling Africa's<br> Potential and Future"
+  content: "You have a role to play in changing our narrative. <br> Your actions, words and contributions is her you start"
   button:
-    enable : true
-    label : "JOIN US"
-    link : "donation"
+    enable: true
+    label: "JOIN US"
+    link: "donation"
 
 ############################# Intro ##################################
 intro:
   enable: true
-  subtitle : "What we can do"
-  title : "We Believe that We can <br>Change the Narrative of Africa"
-  content : "By driving sustainable development, fostering resilience, and promoting innovation across Africa. 
-            We aim to champion Africa's rich heritage and provide frameworks for positive change and collaboration continent-wide. 
-            Through partnerships and initiatives, we empower individuals and organisations to shape a brighter future for Africa."
+  subtitle: "What we can do"
+  title: "We Believe that We can <br>Change the Narrative of Africa"
+  content:
+    "By driving sustainable development, fostering resilience, and promoting innovation across Africa.
+    We aim to champion Africa's rich heritage and provide frameworks for positive change and collaboration continent-wide.
+    Through partnerships and initiatives, we empower individuals and organisations to shape a brighter future for Africa."
   introItem:
     # intro item loop
-    - title : "Get inspired"
-      image : "images/about/image-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
-      
+    - title: "Get inspired"
+      image: "images/about/image-1.jpg"
+      content: "We strive to inspire and empower individuals and organisations to drive positive change across Africa. Our initiatives and partnerships are designed to foster resilience, promote innovation, and drive sustainable development across the continent."
+
     # intro item loop
-    - title : "Give Donation"
-      image : "images/about/image-2.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
-      
+    - title: "Give Donation"
+      image: "images/about/image-2.jpg"
+      content: "Every contribution counts. By donating to OurKontinent, you can help us drive positive change and foster resilience across Africa. Your support will help us to champion Africa&rsquo;s rich heritage and provide frameworks for positive change and collaboration continent-wide."
+
     # intro item loop
-    - title : "Become a Volunteer"
-      image : "images/about/image-3.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
-      
+    - title: "Become a Volunteer"
+      image: "images/about/image-3.jpg"
+      content: " Volunteering is a great way to give back to your community and make a difference in the lives of others. By volunteering with OurKontinent, you can help us drive positive change and foster resilience across Africa. Your support will help us to champion Africa&rsquo;s rich heritage and provide frameworks for positive change and collaboration continent-wide."
+
     # intro item loop
-    - title : "Help The children"
-      image : "images/about/image-1.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus."
+    - title: "Help The children"
+      image: "images/about/image-1.jpg"
+      content: " Let's help the children of Africa. By donating to OurKontinent, you can help us drive positive change and foster resilience across Africa. Your support will help us to champion Africa&rsquo;s rich heritage and provide frameworks for positive change and collaboration continent-wide."
 
 ################################# Video ###############################
 video:
-  enable : true
-  title : "We are on a Journey to Show <br>Africa"
-  videoThumb : "images/bg/bg-1.jpg"
+  enable: true
+  title: "We are on a Journey to Show <br>Africa"
+  videoThumb: "images/New/IMG-20240620-WA0012.jpg"
   video: "https://www.youtube.com/watch?v=YRyRmXDgy7M"
-  
+
 ################################# funfacts ###############################
 funfacts:
-  enable : true
+  enable: true
   funItem:
     # funfacts item loop
-    - title : "Countries in Africa"
+    - title: "Countries in Africa"
       count: "54"
-      
+
     # funfacts item loop
-    - title : "Spoken Languages"
+    - title: "Spoken Languages"
       count: "2000"
-      
+
     # funfacts item loop
-    - title : "Ethic Groups"
+    - title: "Ethic Groups"
       count: "3000"
-      
+
     # funfacts item loop
-    - title : "African Cuisine"
+    - title: "African Cuisine"
       count: "2200"
 
 ############################ gallery ###################################
 gallery:
-  enable : true
-  subtitle : "Our Gallery"
-  title : "We believe in our journey and we know that collaborations and partnerships are ways for us to achieve it."
+  enable: true
+  subtitle: "Our Gallery"
+  title: "We believe in our journey and we know that collaborations and partnerships are ways for us to achieve it."
   galleryItems:
-    - image : "images/gallery/1.jpg"
-    - image : "images/gallery/2.jpg"
-    - image : "images/gallery/3.jpg"
-    - image : "images/gallery/4.jpg"
-    - image : "images/gallery/5.jpg"
-    - image : "images/gallery/6.jpg"
-    - image : "images/gallery/7.jpg"
-    - image : "images/gallery/8.jpg"
-    - image : "images/gallery/9.jpg"
+    - image: "images/New/IMG-20240620-WA0010.jpg"
+    - image: "images/gallery/2.jpg"
+    - image: "images/gallery/3.jpg"
+    - image: "images/gallery/4.jpg"
+    - image: "images/New/IMG-20240620-WA0011.jpg"
+    - image: "images/gallery/6.jpg"
+    - image: "images/gallery/7.jpg"
+    - image: "images/gallery/8.jpg"
+    - image: "images/New/IMG-20240620-WA0014.jpg"
 
 ########################## latest causes ################################
 causes:
-  enable : true
-  subtitle : "Latest Causes"
-  title : "Our Recent Causes to serve better"
-  content : "We provide services in the area of IFRS and management reporting, helping companies to reach
-            their highest level."
+  enable: true
+  subtitle: "Latest Causes"
+  title: "Our Recent Causes to serve better"
+  content:
+    "We provide services in the area of IFRS and management reporting, helping companies to reach
+    their highest level."
   # causes item comes from "content/event" folder
 
 ######################## call to action ###################################
 cta:
-  enable : true
-  title : "We can’t help everyone, but everyone can help someone"
+  enable: true
+  title: "We can’t help everyone, but everyone can help someone"
   button:
-    enable : true
-    label : "Make a donation"
-    link : "donation"
+    enable: true
+    label: "Make a donation"
+    link: "donation"
 
 ############################# Latest Blog ###############################
 blog:
-  enable : true
-  subtitle : ""
-  title : ""
-  content : ""
+  enable: true
+  subtitle: ""
+  title: ""
+  content: ""
   # blog item comes from "content/blog" folder
 
 ################################# Volunteer ##############################
 volunteer:
-  enable : true
-  image : "images/bg/image-5.jpg"
-  title : "We can’t help everyone, but everyone can help someone"
-  content : "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
-            ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
+  enable: true
+  image: "images/bg/image-5.jpg"
+  title: "We can’t help everyone, but everyone can help someone"
+  content:
+    "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
+    ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
   partners:
-    enable : true
-    title : "Trusted worldwide partner"
+    enable: true
+    title: "Trusted worldwide partner"
     partner:
       # partner loop
-      - logo : "images/clients/client1.png"
-        link : "#"
-        
+      - logo: "images/clients/client1.png"
+        link: "#"
+
       # partner loop
-      - logo : "images/clients/client2.png"
-        link : "#"
-        
+      - logo: "images/clients/client2.png"
+        link: "#"
+
       # partner loop
-      - logo : "images/clients/client4.png"
-        link : "#"
-        
+      - logo: "images/clients/client4.png"
+        link: "#"
+
       # partner loop
-      - logo : "images/clients/client5.png"
-        link : "#"
-        
+      - logo: "images/clients/client5.png"
+        link: "#"
+
       # partner loop
-      - logo : "images/clients/client6.png"
-        link : "#"
-  
+      - logo: "images/clients/client6.png"
+        link: "#"
+
   # form
   form:
-    subtitle : "Join With us"
-    title : "Become A Volunteer"
-    formAction : "#" # form works with formspree.io
-    
+    subtitle: "Join With us"
+    title: "Become A Volunteer"
+    formAction: "#" # form works with formspree.io

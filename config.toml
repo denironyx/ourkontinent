@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://distracted-bhabha-10e5b6.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "OurKontinent | Preserving Africa's Cultural Heritage"
 theme = "wishfund-hugo"
@@ -59,21 +59,6 @@ paginate = 6
   name = "Causes"
   URL = "causes"
   weight = 4
-
-  [[menu.main]]
-  weight = 5
-  name = "Get Involved"
-  hasChildren = true
-
-    [[menu.main]]
-    parent = "Get Involved"
-    name = "Donation"
-    URL = "donation"
-
-    [[menu.main]]
-    parent = "Get Involved"
-    name = "Volunteer"
-    URL = "volunteer"
   
   [[menu.main]]
   name = "Event"
@@ -149,19 +134,19 @@ googleAnalitycsID = "Your ID"
 
   #################### social icon ######################################
   [[params.social]]
+  name = "linkedin"
+  icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+  link = "https://www.linkedin.com/company/ourkontinent/"
+  
+  [[params.social]]
+  name = "Instagram"
+  icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
+  link = "https://www.instagram.com/ourkontinent/" 
+  
+  [[params.social]]
   name = "Facebook"
   icon = "ti-facebook" # themify icon pack https://themify.me/themify-icons
-  link = "#"
-  
-  [[params.social]]
-  name = "Twitter"
-  icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-  link = "#"
-  
-  [[params.social]]
-  name = "Vimeo"
-  icon = "ti-vimeo-alt" # themify icon pack https://themify.me/themify-icons
-  link = "#"
+  link = "https://www.facebook.com/ourkontinent/"
   
   [[params.social]]
   name = "Github"
