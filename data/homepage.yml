@@ -1,9 +1,9 @@
 ################################ Banner ##############################
 banner:
   enable: true
-  subtitle: "Our Vision Start With You"
-  title: "Unveiling Africa's<br> Potential and Future"
-  content: "You have a role to play in changing our narrative. <br> Your actions, words and contributions is her you start"
+  subtitle: "Empowering Africa's Future Together"
+  title: "Unlocking Africa's<br> Potential and Paving the Way Foward"
+  content: "Join us in transforming Africa's narrative. <br> Your actions, words, and contributions are where change begins. Be a part of our journey toward a brighter future for the continent."
   button:
     enable: true
     label: "JOIN US"
@@ -12,37 +12,37 @@ banner:
 ############################# Intro ##################################
 intro:
   enable: true
-  subtitle: "What we can do"
-  title: "We Believe that We can <br>Change the Narrative of Africa"
+  subtitle: "How We Make a Difference"
+  title: "Together, We Can <br>Transform Africa's Future"
   content:
-    "By driving sustainable development, fostering resilience, and promoting innovation across Africa.
-    We aim to champion Africa's rich heritage and provide frameworks for positive change and collaboration continent-wide.
-    Through partnerships and initiatives, we empower individuals and organisations to shape a brighter future for Africa."
+    "At OurKontinent, we drive sustainable development, foster resilience, and promote innovation across Africa. 
+    We champion Africa's rich heritage while providing frameworks for positive change and collaboration.
+     Through strategic partnerships and impactful initiatives, we empower individuals and organizations to shape a brighter future for Africa."
   introItem:
     # intro item loop
-    - title: "Get inspired"
-      image: "images/about/image-1.jpg"
-      content: "We strive to inspire and empower individuals and organisations to drive positive change across Africa. Our initiatives and partnerships are designed to foster resilience, promote innovation, and drive sustainable development across the continent."
+    - title: "Get Inspired"
+      image: "images/New/IMG-20240620-WA0014.jpg"
+      content: "OurKontinent strives to inspire and empower individuals and organizations to drive positive change across Africa. Our initiatives and partnerships are designed to foster resilience, promote innovation, and drive sustainable development continent-wide"
 
     # intro item loop
     - title: "Give Donation"
-      image: "images/about/image-2.jpg"
-      content: "Every contribution counts. By donating to OurKontinent, you can help us drive positive change and foster resilience across Africa. Your support will help us to champion Africa&rsquo;s rich heritage and provide frameworks for positive change and collaboration continent-wide."
+      image: "images/New/IMG-20240620-WA0011.jpg"
+      content: "Every contribution counts. By donating to OurKontinent, you help drive positive change and foster resilience across Africa. Your support allows us to champion Africa’s rich heritage and provide frameworks for positive change and collaboration"
 
     # intro item loop
-    - title: "Become a Volunteer"
-      image: "images/about/image-3.jpg"
-      content: " Volunteering is a great way to give back to your community and make a difference in the lives of others. By volunteering with OurKontinent, you can help us drive positive change and foster resilience across Africa. Your support will help us to champion Africa&rsquo;s rich heritage and provide frameworks for positive change and collaboration continent-wide."
+    - title: "Become the Solution"
+      image: "images/New/mpumelelo.jpg"
+      content: " Volunteering is a powerful way to make a difference in your community. By volunteering with OurKontinent, you contribute to driving positive change and fostering resilience across Africa"
 
     # intro item loop
-    - title: "Help The children"
-      image: "images/about/image-1.jpg"
-      content: " Let's help the children of Africa. By donating to OurKontinent, you can help us drive positive change and foster resilience across Africa. Your support will help us to champion Africa&rsquo;s rich heritage and provide frameworks for positive change and collaboration continent-wide."
+    - title: "Spread Hope"
+      image: "images/New/hope.jpg"
+      content: " Together, we can create a great future for Africa. Let’s be the change we want to see in our continent. By sharing positive stories and achievements, we can highlight Africa’s potential and inspire others to join our cause"
 
 ################################# Video ###############################
 video:
   enable: true
-  title: "We are on a Journey to Show <br>Africa"
+  title: "Our story just began"
   videoThumb: "images/New/IMG-20240620-WA0012.jpg"
   video: "https://www.youtube.com/watch?v=YRyRmXDgy7M"
 
@@ -70,12 +70,12 @@ funfacts:
 gallery:
   enable: true
   subtitle: "Our Gallery"
-  title: "We believe in our journey and we know that collaborations and partnerships are ways for us to achieve it."
+  title: "We believe in our journey and with you we closer are to it"
   galleryItems:
     - image: "images/New/IMG-20240620-WA0010.jpg"
     - image: "images/gallery/2.jpg"
-    - image: "images/gallery/3.jpg"
-    - image: "images/gallery/4.jpg"
+    - image: "images/New/mpumelelo.jpg"
+    - image: "images/New/eva-blue.jpg"
     - image: "images/New/IMG-20240620-WA0011.jpg"
     - image: "images/gallery/6.jpg"
     - image: "images/gallery/7.jpg"
@@ -83,66 +83,66 @@ gallery:
     - image: "images/New/IMG-20240620-WA0014.jpg"
 
 ########################## latest causes ################################
-causes:
-  enable: true
-  subtitle: "Latest Causes"
-  title: "Our Recent Causes to serve better"
-  content:
-    "We provide services in the area of IFRS and management reporting, helping companies to reach
-    their highest level."
-  # causes item comes from "content/event" folder
+# causes:
+#   enable: true
+#   subtitle: "Latest Causes"
+#   title: "Our Recent Causes to serve better"
+#   content:
+#     "We provide services in the area of IFRS and management reporting, helping companies to reach
+#     their highest level."
+#   # causes item comes from "content/event" folder
 
-######################## call to action ###################################
-cta:
-  enable: true
-  title: "We can’t help everyone, but everyone can help someone"
-  button:
-    enable: true
-    label: "Make a donation"
-    link: "donation"
+# ######################## call to action ###################################
+# cta:
+#   enable: true
+#   title: "We can’t help everyone, but everyone can help someone"
+#   button:
+#     enable: true
+#     label: "Make a donation"
+#     link: "donation"
 
-############################# Latest Blog ###############################
-blog:
-  enable: true
-  subtitle: ""
-  title: ""
-  content: ""
-  # blog item comes from "content/blog" folder
+# ############################# Latest Blog ###############################
+# blog:
+#   enable: true
+#   subtitle: ""
+#   title: ""
+#   content: ""
+#   # blog item comes from "content/blog" folder
 
 ################################# Volunteer ##############################
-volunteer:
-  enable: true
-  image: "images/bg/image-5.jpg"
-  title: "We can’t help everyone, but everyone can help someone"
-  content:
-    "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
-    ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
-  partners:
-    enable: true
-    title: "Trusted worldwide partner"
-    partner:
-      # partner loop
-      - logo: "images/clients/client1.png"
-        link: "#"
+# volunteer:
+#   enable: true
+#   image: "images/bg/image-5.jpg"
+#   title: "We can’t help everyone, but everyone can help someone"
+#   content:
+#     "Assumenda reiciendis delectus dolore incidunt molestias omnis quo quaerat voluptate, eligendi perspiciatis
+#     ipsa laudantium nesciunt officia, odit nemo quidem hic itaque. Fugiat."
+#   partners:
+#     enable: true
+#     title: "Trusted worldwide partner"
+#     partner:
+#       # partner loop
+#       - logo: "images/clients/client1.png"
+#         link: "#"
 
-      # partner loop
-      - logo: "images/clients/client2.png"
-        link: "#"
+#       # partner loop
+#       - logo: "images/clients/client2.png"
+#         link: "#"
 
-      # partner loop
-      - logo: "images/clients/client4.png"
-        link: "#"
+#       # partner loop
+#       - logo: "images/clients/client4.png"
+#         link: "#"
 
-      # partner loop
-      - logo: "images/clients/client5.png"
-        link: "#"
+#       # partner loop
+#       - logo: "images/clients/client5.png"
+#         link: "#"
 
-      # partner loop
-      - logo: "images/clients/client6.png"
-        link: "#"
+#       # partner loop
+#       - logo: "images/clients/client6.png"
+#         link: "#"
 
-  # form
-  form:
-    subtitle: "Join With us"
-    title: "Become A Volunteer"
-    formAction: "#" # form works with formspree.io
+  # # form
+  # form:
+  #   subtitle: "Join With us"
+  #   title: "Become A Volunteer"
+  #   formAction: "#" # form works with formspree.io
