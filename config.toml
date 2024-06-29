@@ -50,20 +50,20 @@ paginate = 6
   URL = "about"
   weight = 2
   
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 3
+  # [[menu.main]]
+  # name = "Blog"
+  # URL = "blog"
+  # weight = 3
   
-  [[menu.main]]
-  name = "Causes"
-  URL = "causes"
-  weight = 4
+  # [[menu.main]]
+  # name = "Causes"
+  # URL = "causes"
+  # weight = 4
   
-  [[menu.main]]
-  name = "Event"
-  URL = "event"
-  weight = 6
+  # [[menu.main]]
+  # name = "Event"
+  # URL = "event"
+  # weight = 6
     
   [[menu.main]]
   name = "Contact"
@@ -72,10 +72,10 @@ paginate = 6
 
   ################# footer menu ##################
 
-  [[menu.footer]]
-  name = "service"
-  URL = "service"
-  weight = 1
+  # [[menu.footer]]
+  # name = "service"
+  # URL = "service"
+  # weight = 1
 
   [[menu.footer]]
   name = "about"
@@ -87,10 +87,10 @@ paginate = 6
   URL = "blog"
   weight = 3
   
-  [[menu.footer]]
-  name = "pricing"
-  URL = "pricing"
-  weight = 4
+  # [[menu.footer]]
+  # name = "pricing"
+  # URL = "pricing"
+  # weight = 4
 
 
 [params]
@@ -100,7 +100,7 @@ home = "Home"
 phone = "08149835443"
 email = "denironyx@email.com"
 location = "Abuja, FCT, Nigeria"
-copyright = "&copy; 2019 a theme by [themefisher](https://themefisher.com/)"
+copyright = "&copy; 2024 a theme by [themefisher](https://themefisher.com/)"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -111,6 +111,7 @@ mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
+
 
   # Preloader
   [params.preloader]
