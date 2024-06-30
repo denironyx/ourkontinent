@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 languageCode = "en-us"
-title = "OurKontinent | Preserving Africa's Cultural Heritage"
+title = "OurKontinent | Unveiling Africa's Potential"
 theme = "wishfund-hugo"
 summaryLength = "10"
 paginate = 6
