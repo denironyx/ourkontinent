@@ -102,7 +102,7 @@ email = "denironyx@email.com"
 location = "Abuja, FCT, Nigeria"
 copyright = "&copy; 2024 a theme by [themefisher](https://themefisher.com/)"
 # Meta data
-description = "This is meta description"
+description = "Unveiling Africa's Potential and Paving the Way Foward"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -121,11 +121,11 @@ googleAnalitycsID = "Your ID"
   [params.topHeader]
   enable = true
 
-  # Navigation button
-  [params.navBtn]
-  enable = true
-  label = "Get a quote"
-  link = "donation"
+  # # Navigation button
+  # [params.navBtn]
+  # enable = true
+  # label = "Get a quote"
+  # link = "donation"
 
   # Subscription
   [params.subscription]
@@ -170,7 +170,7 @@ icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
 name = "linkedin"
 link = "#"
 
-[[params.postShare]]
-icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
-name = "pinterest"
-link = "#"
+# [[params.postShare]]
+# icon = "ti-pinterest" # themify icon pack https://themify.me/themify-icons
+# name = "pinterest"
+# link = "#"

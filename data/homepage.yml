@@ -39,6 +39,25 @@ intro:
       image: "images/New/hope.jpg"
       content: " Together, we can create a great future for Africa. Let’s be the change we want to see in our continent. By sharing positive stories and achievements, we can highlight Africa’s potential and inspire others to join our cause"
 
+############################ sdgs ##########################
+partners:
+  enable : true
+  title : "SDGS Goals"
+  content : "Our work at OurKontinent is contributing to achieving a number of these sustainable development goals (SDGS) with a focus of 10 and 11"
+  partnersLogo:
+    # partner logo loop
+    - logo : "images/New/reducedinequalities.png"
+      link : "#"
+      
+    # partner logo loop
+    - logo : "images/New/sustainablecities.png"
+      link : "#"
+      
+    # partner logo loop
+    - logo : "images/New/qualityeducation.png"
+      link : "#"
+
+
 ################################# Video ###############################
 video:
   enable: true
@@ -81,6 +100,9 @@ gallery:
     - image: "images/gallery/7.jpg"
     - image: "images/gallery/8.jpg"
     - image: "images/New/IMG-20240620-WA0014.jpg"
+
+
+
 
 ########################## latest causes ################################
 # causes:
