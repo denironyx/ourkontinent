@@ -54,77 +54,77 @@ history:
       content : "We only stand a chance of achieving our goal, if you join us"
 
 ############################### Team ##############################
-team:
-  enable : true
-  subtitle : "Our Team"
-  title : "We are Growing Constantly"
-  button:
-    enable : true
-    label : "Join US"
-    link : "volunteer"
-  teamMember:
-    # team member loop
-    - name : "Love Kanebi"
-      designation : "Executive Director"
-      image : "images/team/volunteer-img1.1.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+# team:
+#   enable : true
+#   subtitle : "Our Team"
+#   title : "We are Growing Constantly"
+#   button:
+#     enable : true
+#     label : "Join US"
+#     link : "volunteer"
+#   teamMember:
+#     # team member loop
+#     - name : "Love Kanebi"
+#       designation : "Executive Director"
+#       image : "images/team/volunteer-img1.1.jpg"
+#       social:
+#         - name : "facebook"
+#           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "twitter"
+#           icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "instagram"
-          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "instagram"
+#           icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "linkedin"
+#           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-    # team member loop
-    - name : "Dennis Irorere"
-      designation : "Director of Development"
-      image : "images/team/volunteer-img1.2.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#     # team member loop
+#     - name : "Dennis Irorere"
+#       designation : "Director of Development"
+#       image : "images/team/volunteer-img1.2.jpg"
+#       social:
+#         - name : "facebook"
+#           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "twitter"
+#           icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "instagram"
-          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "instagram"
+#           icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "linkedin"
+#           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-    # team member loop
-    - name : "Oluwatofunmi "
-      designation : ""
-      image : "images/team/volunteer-img1.3.jpg"
-      social:
-        - name : "facebook"
-          icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#     # team member loop
+#     - name : "Oluwatofunmi Adebayo"
+#       designation : "Adventurer | Videographer"
+#       image : "images/team/volunteer-img1.3.jpg"
+#       social:
+#         - name : "facebook"
+#           icon : "ti-facebook" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "twitter"
-          icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "twitter"
+#           icon : "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "instagram"
-          icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "instagram"
+#           icon : "ti-instagram" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
-        - name : "linkedin"
-          icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
-          link : "#"
+#         - name : "linkedin"
+#           icon : "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+#           link : "#"
           
     # # team member loop
     # - name : "John Doe"

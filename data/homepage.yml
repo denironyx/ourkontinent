@@ -4,10 +4,10 @@ banner:
   subtitle: "Empowering Africa's Future Together"
   title: "Unveiling Africa's<br> Potential and Paving the Way Foward"
   content: "Join us in transforming Africa's narrative. <br> Your actions, words, and contributions are where change begins. Be a part of our journey toward a brighter future for the continent."
-  button:
-    enable: true
-    label: "JOIN US"
-    link: "donation"
+  # button:
+  #   enable: true
+  #   label: "JOIN US"
+  #   link: "donation"
 
 ############################# Intro ##################################
 intro:
