@@ -78,14 +78,14 @@ paginate = 6
   # weight = 1
 
   [[menu.footer]]
-  name = "about"
+  name = "About"
   URL = "about"
   weight = 2
   
-  [[menu.footer]]
-  name = "blog"
-  URL = "blog"
-  weight = 3
+  # [[menu.footer]]
+  # name = "blog"
+  # URL = "blog"
+  # weight = 3
   
   # [[menu.footer]]
   # name = "pricing"
