@@ -94,6 +94,7 @@ paginate = 6
 
 
 [params]
+favicon = "images/favicon.ico"
 logo = "images/logo3.png"
 home = "Home"
 # Contact Information
